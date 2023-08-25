@@ -1,11 +1,10 @@
-import './App.css';
+import React from 'react';
 
-function App() {
+const App = () => {
   return (
-   <div>
-    Hello Spacex
-   </div>
+      <p>Rocket take off in 8 7....1.  oops!</p>
   );
-}
+};
 
 export default App;
+
